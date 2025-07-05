@@ -1,4 +1,5 @@
 mongodb_cluster_credentials.txt
+artifact/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
